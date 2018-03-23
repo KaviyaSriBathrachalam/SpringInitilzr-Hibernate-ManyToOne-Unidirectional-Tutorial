@@ -18,7 +18,7 @@ UNI-DIRECTIONAL -
           
  BI-DIRECTIONAL -
      
-        Emploee can his Employer and Employeer can all his employees.
+        Emploee can see his Employer and Employeer can see all his employees.
         
    --------------------------------------------------------------------
    
